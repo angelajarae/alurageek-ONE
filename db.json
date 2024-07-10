@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Minion",
+      "price": "15.00",
+      "img": "https://images.unsplash.com/photo-1679343550998-107ca3786edd?fm=jpg&w=3000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bWluaW9uJTIwanVndWV0ZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "4",
+      "name": "Iron Man",
+      "price": "130.00",
+      "img": "https://images7.alphacoders.com/333/333363.jpg"
+    },
+    {
+      "id": "9ed0",
+      "name": "Teddy bear",
+      "price": "55.00",
+      "img": "https://img.freepik.com/fotos-premium/adorable-oso-peluche-caja-regalo-fondo-rosa-perfecto-celebraciones-regalos-amor_1151092-986.jpg"
+    },
+    {
+      "id": "2703",
+      "name": "My little ponny",
+      "price": "33.00",
+      "img": "https://i.etsystatic.com/30433165/r/il/78ee77/4286741151/il_fullxfull.4286741151_2jra.jpg"
+    }
+  ]
+}
