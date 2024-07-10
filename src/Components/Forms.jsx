@@ -35,7 +35,7 @@ const Forms = () => {
         </button>
         <button className="transition ease-in-out duration-300 w-1/2 p-3 rounded-xl text-customColor-blue border-4 border-solid font-bold border-customColor-blue hover:border-customColor-pink3 hover:text-customColor-pink3"
           type="button"
-          onClick={reset()}>
+          onClick={()=>reset()}>
           Limpiar
         </button>
       </div>
